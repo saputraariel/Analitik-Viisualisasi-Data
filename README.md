@@ -1,5 +1,5 @@
 # Analitik-Viisualisasi-Data
-PRAKTIKUM = AND
+PRAKTIKUM = AVD
 
 Nama = Mohamad Ariel Saputra D Loi
 
